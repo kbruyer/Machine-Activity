@@ -5,6 +5,11 @@ name = "pypi"
 
 [packages]
 django = "*"
+environ = {extras = ["dango"], version = "*"}
+environs = "*"
+psycopg2-binary = "*"
+whitenoise = "*"
+gunicorn = "*"
 
 [dev-packages]
 
