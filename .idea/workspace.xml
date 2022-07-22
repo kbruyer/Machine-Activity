@@ -5,7 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1befcf3c-1565-46cd-be89-403b054df5ba" name="Changes" comment="Update">
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/casino-southentry.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticfiles/css/base.b4d010b6c9de.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticfiles/css/base.b4d010b6c9de.css.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticfiles/css/base_copy.057b40cb1ad3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticfiles/css/base_copy.057b40cb1ad3.css.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticfiles/css/base_copy.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticfiles/css/base_copy.css.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticfiles/img/casino-southentry.e12c211aa775.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticfiles/img/casino-southentry.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/static/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/account/static/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/account/templates/registration/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/css/base.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/css/base.css.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/staticfiles.json" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/staticfiles.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +50,24 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/keithbruyer/PycharmProjects/machine_activity/account/static/css&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/account/static/css" />
+      <recent name="$PROJECT_DIR$/account/templates/registration" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images" />
+      <recent name="$PROJECT_DIR$/account/static/img" />
+      <recent name="$PROJECT_DIR$/account" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Run" type="Python.DjangoServer" factoryName="Django server">
       <module name="machine_activity" />
@@ -84,7 +111,10 @@
       <updated>1658388756800</updated>
       <workItem from="1658388758230" duration="1083000" />
       <workItem from="1658426838637" duration="1122000" />
-      <workItem from="1658428906249" duration="1904000" />
+      <workItem from="1658428906249" duration="2239000" />
+      <workItem from="1658433492942" duration="25000" />
+      <workItem from="1658454113159" duration="3910000" />
+      <workItem from="1658460299714" duration="3989000" />
     </task>
     <task id="LOCAL-00002" summary="Update">
       <created>1658389029969</created>
@@ -121,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658432439006</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update">
+      <created>1658433128297</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658433128297</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
